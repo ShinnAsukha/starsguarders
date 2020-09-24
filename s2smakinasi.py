@@ -12,13 +12,13 @@ from banner import access
 ########################################
 
 """
-Created By: TheTechHacker
+Created By: RootUnited
 --------------------------------------------------
 This Tool is for Educational purpose only             
 I'm not responsible for your actions 
 
 
-SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
+FOLLOW : https://instagram.com/rootunited
 """
 
 
