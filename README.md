@@ -7,7 +7,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/Tn-BoyK07/DDOS-Attack
+$ git clone https://github.com/ShinnAsukha/starsteamdos
 
 $ cd DDOS-Attack
 
