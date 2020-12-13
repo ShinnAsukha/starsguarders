@@ -40,11 +40,8 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 ### Not:
 Attack log tutmak için proje dizininize `attacklog.json` isimli bir dosya oluşturunuz.
 
-## Kullanılan Diller:
-* Python
-
 ## Yazılım
-* **Ada Gürsoy** - [ada](https://adaguard.online)
+* **Ada Gürsoy** - [adaguard.online](https://adaguard.online)
 
 ## Lisans
 Bu proje MIT ile lisanslanmıştır. - [license.md](license.md) dosyasına bakarak gerekli bilgi alabilirsiniz.
