@@ -19,8 +19,10 @@ Satın almak için **adaguard.online**
 ============================================================================
 
 ## LINKLER
+```
 [Stars Community](https://discord.gg/Swqv8rY) discord sunucusu.
 [Stars Hosting](https://discord.gg/cHrhwCu) discord sunucusu.
 [ICE ROLEPLAY](https://discord.gg/hzJt5h42Nj) discord sunucusu.
+```
 
 ============================================================================
