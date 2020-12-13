@@ -36,3 +36,14 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 1 yıldır bu proje üzerine çalışıyorum ve çıkartma kararı aldım, sizlere 300 gbit e kadar ddos ve dos koruması sağlamaktayım.
 
 ============================================================================
+
+### Notes:
+Path error alındığı takdirde, C: dizini altında *tmp* adlı klasör oluşturun.
+## Kullanılan Diller:
+* Python
+## Authors
+* **Ada Gürsoy** - [ada](https://adaguard.online)
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+============================================================================
