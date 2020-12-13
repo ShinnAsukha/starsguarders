@@ -20,7 +20,8 @@ Satın almak için **adaguard.online**
 
 ### Installing
 Kod satırı üzerinden `python2 guard.py "ip" "port" "network"` komutu ile çalıştırılabilir.
-Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar koruma sağlanacaktır..
-!
 
-[Kerasboard](https://media.giphy.com/media/7zxZ8mOddFwZvTZJoa/giphy.gif)
+Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar koruma sağlanacaktır..
+
+
+![Stars](https://media.giphy.com/media/7zxZ8mOddFwZvTZJoa/giphy.gif)
