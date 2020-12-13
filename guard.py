@@ -12,3 +12,15 @@ ddos.write("Suanda sunucunuzda aktif bir DDoS saldirisi var!\n")
 
 dos = open("attacklog.json","a",encoding="utf-8")
 dos.write("Suanda sunucunuzda aktif bir DoS saldirisi var!\n")
+
+with open("attacklog.json","r+",encoding = "utf-8") as dosya:
+    icerik = dosya.read()
+        engel = "Sunucuzdaki aktif saldirilar onlendi! Suanda network degerleri\n" + icerik
+        dosya.seek(0)
+        dosya.write(engel)
+        
+with open("attacklog.json","r+",encoding = "utf-8") as dosya:
+    icerik = dosya.read()
+        down = "Sunucunuza reboot atıldı! Suanda network degerleri\n" + icerik
+        dosya.seek(0)
+        dosya.write(down)
