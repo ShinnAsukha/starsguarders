@@ -1,4 +1,5 @@
 # Distributed Denial of Service - Guard
+# Denial of Service - Guard
 ## by Ada Gürsoy
 ============================================================================
 
@@ -44,6 +45,6 @@ Path error alındığı takdirde, C: dizini altında *tmp* adlı klasör oluştu
 ## Authors
 * **Ada Gürsoy** - [ada](https://adaguard.online)
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Bu proje MIT ile lisanslanmıştır. - [license.md](license.md) dosyasına bakarak gerekli bilgi alabilirsiniz.
 
 ============================================================================
