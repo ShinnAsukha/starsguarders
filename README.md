@@ -14,7 +14,6 @@ Satın almak için **adaguard.online**
 > Türkiye'nin en gelişmiş DoS & DDoS koruması
 > Ücretsiz deneme sürümü
 > Tamamen Türk yapımı
-> Referances: Stars Community, Ice Roleplay, Stars Hosting
 ```
 ============================================================================
 
