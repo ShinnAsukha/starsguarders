@@ -1,5 +1,5 @@
 # Distributed Denial of Service - Guard
-# by Ada Gürsoy
+## by Ada Gürsoy
 ============================================================================
 
 Satın almak için **adaguard.online**
@@ -7,7 +7,7 @@ Satın almak için **adaguard.online**
 ============================================================================
 
 ## OZELLIKLER
-300GBIT'e kadar Denial Of Service Koruması
+*, -,+ 300GBIT'e kadar Denial Of Service Koruması
 x portundan y portuna kadar yüksek koruma
 Tamamen yurt dışı koruma
 Türkiye'nin en gelişmiş DoS & DDoS koruması
