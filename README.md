@@ -17,7 +17,7 @@ Satın almak için **adaguard.online**
 ```
 ============================================================================
 
-### Installing
+### KURULUM
 Kod satırı üzerinden `python2 guard.py "ip" "port" "network"` komutu ile çalıştırılabilir.
 
 Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar koruma sağlanacaktır..
@@ -28,3 +28,11 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 ![Stars](https://media.discordapp.net/attachments/787719272063303710/787741391290761226/unknown.png?width=358&height=20)
 
 ![Stars](https://media.discordapp.net/attachments/787719272063303710/787737096466202684/unknown.png?width=258&height=342)
+
+============================================================================
+
+## MISYON
+2018 yılından beri `php, csharp, c++, html, python ve javascript` üzerine çalışıyorum.
+1 yıldır bu proje üzerine çalışıyorum ve çıkartma kararı aldım, sizlere 300 gbit e kadar ddos ve dos koruması sağlamaktayım.
+
+============================================================================
