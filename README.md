@@ -1,5 +1,4 @@
 # Distributed Denial of Service - Guard
-# Denial of Service - Guard
 ## by Ada Gürsoy
 ============================================================================
 
@@ -38,13 +37,16 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 
 ============================================================================
 
-### Notes:
-Path error alındığı takdirde, C: dizini altında *tmp* adlı klasör oluşturun.
+### Not:
+Attack log tutmak için proje dizininize `attacklog.json` isimli bir dosya oluşturunuz.
+
 ## Kullanılan Diller:
 * Python
-## Authors
+
+## Yazılım
 * **Ada Gürsoy** - [ada](https://adaguard.online)
-## License
+
+## Lisans
 Bu proje MIT ile lisanslanmıştır. - [license.md](license.md) dosyasına bakarak gerekli bilgi alabilirsiniz.
 
 ============================================================================
