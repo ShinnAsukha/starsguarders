@@ -18,11 +18,7 @@ Satın almak için **adaguard.online**
 ```
 ============================================================================
 
-## LINKLER
-```
-[Stars Community](https://discord.gg/Swqv8rY) discord sunucusu.
-[Stars Hosting](https://discord.gg/cHrhwCu) discord sunucusu.
-[ICE ROLEPLAY](https://discord.gg/hzJt5h42Nj) discord sunucusu.
-```
-
-============================================================================
+### Installing
+Gerekli kütüphaneler kurulduğunda komut satırı üzerinden `python kerasboard.py` komutu ile çalıştırılabilir.
+Model eğitimi tamamlandıktan sonra programın son çıktısı komut satırında çalıştırılarak tarayıcıda `localhost:6006` adresinde grafikler gözlenebilir.
+![Kerasboard](https://media.giphy.com/media/7zxZ8mOddFwZvTZJoa/giphy.gif)
