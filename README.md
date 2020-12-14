@@ -31,12 +31,6 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 
 ============================================================================
 
-## MISYON
-2018 yılından beri `php, csharp, c++, html, python ve javascript` üzerine çalışıyorum.
-1 yıldır bu proje üzerine çalışıyorum ve çıkartma kararı aldım, sizlere 300 gbit e kadar ddos ve dos koruması sağlamaktayım.
-
-============================================================================
-
 ### Not:
 Attack log tutmak için proje dizininize `attacklog.json` isimli bir dosya oluşturunuz.
 
