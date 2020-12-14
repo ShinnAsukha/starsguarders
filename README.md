@@ -21,6 +21,7 @@ Discord Sunucumuz **https://discord.gg/4zXVSCpT7W**
 
 ### KURULUM
 Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar koruma sağlanacaktır..
+
 Ödeme tamamlandıktan 1 saat sonra kurulum tamamlanacaktır. Size bilgi verilecektir.
 
 
@@ -44,6 +45,6 @@ Attack log tutmak için proje dizininize `attacklog.json` isimli bir dosya oluş
 * **𝐖𝟑𝐓𝟑𝐑𝟒𝐍𝐍** - [adaguard.online](https://adaguard.online)
 
 ### LISANS
-Bu proje MIT ile lisanslanmıştır. - [license.md](license.md) dosyasına bakarak gerekli bilgi alabilirsiniz.
+* Bu proje MIT ile lisanslanmıştır. - [license.md](license.md) dosyasına bakarak gerekli bilgi alabilirsiniz.
 
 ============================================================================
