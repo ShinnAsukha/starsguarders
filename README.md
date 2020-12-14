@@ -2,7 +2,8 @@
 ## by Ada Gürsoy
 ============================================================================
 
-Satın almak için **adaguard.online**
+Satın almak için **https://adaguard.online**
+Discord Sunucumuz **https://discord.gg/4zXVSCpT7W**
 
 ============================================================================
 
@@ -34,14 +35,14 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 
 ============================================================================
 
-### Not:
+### NOT
 Attack log tutmak için proje dizininize `attacklog.json` isimli bir dosya oluşturunuz.
 
-### Yazılım
+### YAZILIM
 * **Ada Gürsoy** - [adaguard.online](https://adaguard.online)
 * **𝐖𝟑𝐓𝟑𝐑𝟒𝐍𝐍** - [adaguard.online](https://adaguard.online)
 
-### Lisans
+### LISANS
 Bu proje MIT ile lisanslanmıştır. - [license.md](license.md) dosyasına bakarak gerekli bilgi alabilirsiniz.
 
 ============================================================================
