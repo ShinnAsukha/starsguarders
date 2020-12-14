@@ -25,6 +25,10 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 
 ![Stars](https://media.giphy.com/media/7zxZ8mOddFwZvTZJoa/giphy.gif)
 
+![Stars](https://cdn.discordapp.com/attachments/785469446160252939/787943591828783104/fillnops1.gif)
+
+![Stars](https://cdn.discordapp.com/attachments/785469446160252939/787943602449809418/indir.jpg)
+
 ![Stars](https://media.discordapp.net/attachments/787719272063303710/787741391290761226/unknown.png?width=358&height=20)
 
 ![Stars](https://media.discordapp.net/attachments/787719272063303710/787737096466202684/unknown.png?width=258&height=342)
