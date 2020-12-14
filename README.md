@@ -42,6 +42,7 @@ Attack log tutmak için proje dizininize `attacklog.json` isimli bir dosya oluş
 
 ## Yazılım
 * **Ada Gürsoy** - [adaguard.online](https://adaguard.online)
+* **𝐖𝟑𝐓𝟑𝐑𝟒𝐍𝐍** - [adaguard.online](https://adaguard.online)
 
 ## Lisans
 Bu proje MIT ile lisanslanmıştır. - [license.md](license.md) dosyasına bakarak gerekli bilgi alabilirsiniz.
