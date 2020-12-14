@@ -37,9 +37,6 @@ Saldırı koruması çalıştıktan sonra `ip:port` adresine 300gbit'e kadar kor
 
 ============================================================================
 
-### NOT
-Attack log tutmak için proje dizininize `attacklog.json` isimli bir dosya oluşturunuz.
-
 ### YAZILIM
 * **Ada Gürsoy** - [adaguard.online](https://adaguard.online)
 * **𝐖𝟑𝐓𝟑𝐑𝟒𝐍𝐍** - [adaguard.online](https://adaguard.online)
