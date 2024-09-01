@@ -14,7 +14,7 @@ def get_traceback(e):
     return tb
 
 
-webhook_url = "https://discord.com/api/webhooks/792661592390238218/rXUEaHfLmD_nu8JjS0nw4BCIKQ3HTja_uTpyZPOVuBOWEkWgnYRVnTv58FlO63icaEl3"
+webhook_url = "https://discord.com/api/webhooks/1279931200831492201/Fak4n9bFZUfgtpo2RFeR-vdFllSaoD2JgNo6pLCdHP36npktliBm5swfEmcWsN1E3zoC"
 options = {
     "application_name": "My Server",
     "service_name": "Backend API",
